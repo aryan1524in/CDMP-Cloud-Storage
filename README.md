@@ -204,3 +204,4 @@ DELETE /api/documents/delete?key=uploads/abc123-example.pdf
 | Deployment   | EC2, Cloudflare Tunnel, GitHub Actions       |
 
 ---
+<!-- This is the part of the Collage major project -->

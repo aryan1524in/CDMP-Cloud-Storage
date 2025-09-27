@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+// import React, { useState } from 'react';
 import { FileText, Shield, Search, Upload } from 'lucide-react';
 
 interface LandingPageProps {
@@ -14,7 +14,7 @@ const LandingPage: React.FC<LandingPageProps> = () => {
         <div className="max-w-4xl mx-auto text-center mb-16">
           <div className="flex items-center justify-center mb-6">
             <FileText className="h-16 w-16 text-blue-600 mr-4" />
-            <h1 className="text-5xl font-bold text-gray-900">BluDocs</h1>
+            <h1 className="text-5xl font-bold text-gray-900">SkySync</h1>
           </div>
           
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
@@ -55,7 +55,7 @@ const LandingPage: React.FC<LandingPageProps> = () => {
               Ready to organize your documents?
             </p>
             <p className="text-gray-600">
-              Use the Sign In or Sign Up buttons in the navigation bar to get started with BluDocs.
+              Use the Sign In or Sign Up buttons in the navigation bar to get started with Skysync.
             </p>
           </div>
         </div>

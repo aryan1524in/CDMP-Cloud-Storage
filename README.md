@@ -1,4 +1,4 @@
-# 🗄️ BluDocs - Document Management System
+# 🗄️ SkySync - Cloud Document Management System
 
 A scalable, secure, and cloud-native document management solution for uploading, storing, searching, and managing user documents.
 
@@ -204,14 +204,3 @@ DELETE /api/documents/delete?key=uploads/abc123-example.pdf
 | Deployment   | EC2, Cloudflare Tunnel, GitHub Actions       |
 
 ---
-
-## 🤝 Contributing
-
-1. **Fork** this repository
-2. **Create** a feature branch
-3. **Commit** your changes
-4. **Push** to your fork
-5. **Open** a Pull Request
-
-We welcome contributions of all kinds — bug fixes, new features, documentation!
-

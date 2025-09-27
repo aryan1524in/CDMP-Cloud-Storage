@@ -50,13 +50,13 @@ const SignInPage: React.FC<SignInPageProps> = ({ onSignIn, onBack }) => {
             </button>
             <div className="flex items-center">
               <FileText className="h-8 w-8 text-blue-600 mr-2" />
-              <h1 className="text-2xl font-bold text-gray-900">BluDocs</h1>
+              <h1 className="text-2xl font-bold text-gray-900">SkySync</h1>
             </div>
           </div>
 
           <div className="text-center mb-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-2">Welcome Back</h2>
-            <p className="text-gray-600">Sign in to your BluDocs account</p>
+            <p className="text-gray-600">Sign in to your SkySync account</p>
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-6">

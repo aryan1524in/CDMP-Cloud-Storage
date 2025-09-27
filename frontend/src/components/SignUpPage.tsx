@@ -87,13 +87,13 @@ const SignUpPage: React.FC<SignUpPageProps> = ({ onSignUp, onBack }) => {
             </button>
             <div className="flex items-center">
               <FileText className="h-8 w-8 text-green-600 mr-2" />
-              <h1 className="text-2xl font-bold text-gray-900">BluDocs</h1>
+              <h1 className="text-2xl font-bold text-gray-900">SkySync</h1>
             </div>
           </div>
 
           <div className="text-center mb-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-2">Create Account</h2>
-            <p className="text-gray-600">Join BluDocs to manage your documents</p>
+            <p className="text-gray-600">Join SkySync to manage your documents</p>
           </div>
 
           <form onSubmit={handleSubmit} className="space-y-6">
